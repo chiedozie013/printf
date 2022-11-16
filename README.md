@@ -95,4 +95,5 @@ These are all the tasks of this project, the ones that are completed link to the
 
 # Authors
 James Chiedozie James - chiedozie013@gmail.com
+
 Cynthia Anosike - chiomaanosike28@gmail.com
